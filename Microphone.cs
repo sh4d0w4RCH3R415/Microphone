@@ -1,5 +1,7 @@
 ﻿using NAudio.CoreAudioApi;
 using System;
+using System.IO;
+using System.Reflection;
 
 namespace Microphone
 {
